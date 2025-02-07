@@ -14,9 +14,5 @@ public class TiposVariaveis {
         boolean doadorOrgao = false;   //-sim ou não
         Date dataNascimento = new Date();
 
-        
-
-
-
     }
 }
